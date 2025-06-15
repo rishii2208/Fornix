@@ -69,11 +69,7 @@
     xToZero,
     animateAboutMeSectionLeave,
   } from '@/animations';
-<<<<<<< HEAD:portfolio/src/components/sections/aboutMe.vue
-  
-=======
 
->>>>>>> c7263e9 (reinitialised):src/components/sections/aboutMe.vue
   import { textSplitterIntoChar } from '@/functions';
   import { onBeforeMount, onMounted, ref } from 'vue';
 
