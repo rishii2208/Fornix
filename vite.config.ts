@@ -16,12 +16,12 @@ export default defineConfig({
     tailwindcss(),
     vue(),
     robots(),
-    sitemap({
-      hostname: 'https://fornix-git-main-dhyanuprajapati7gmailcoms-projects.vercel.app',
-      basePath: '/',
-      changefreq: 'hourly', // default: 'daily'
-      priority: 1,
-    }),
+    // sitemap({
+    //   hostname: 'https://fornix-git-main-dhyanuprajapati7gmailcoms-projects.vercel.app',
+    //   basePath: '/',
+    //   changefreq: 'hourly', // default: 'daily'
+    //   priority: 1,
+    // }),
   ],
   resolve: {
     alias: {
